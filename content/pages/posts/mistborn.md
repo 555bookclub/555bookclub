@@ -4,7 +4,7 @@ subtitle: Written by Abdulaziz
 date: '2021-03-29'
 thumb_img_alt: Mistborn
 content_img_alt: Mistborn
-excerpt: lorem-ipsum
+excerpt: 'For a '
 seo:
   title: ''
   description: ''
