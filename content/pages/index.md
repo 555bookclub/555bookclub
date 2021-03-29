@@ -17,7 +17,9 @@ has_more_link: true
 more_link_text: Read more
 seo:
   title: The 5-5-5 Bookclub
-  description: The preview of the Ampersand theme
+  description: >-
+    We are a group of students who are trying to read at least 5 pages every
+    day.
   extra:
     - name: 'og:type'
       value: website
