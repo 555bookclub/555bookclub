@@ -32,14 +32,21 @@ seo:
 layout: page
 subtitle: We are a group of students who are trying to read at least 5 pages every day.
 ---
-We are a group of Arab **students **who are trying to read 5 pages everyday. 
+We are a group of Arab students who are trying to read 5 pages everyday.
 
-The group head **Razan **is a benovolant dictator who requires that everyone send a ✅ after you finish your 5 pages.
+The group head Razan is a benovolant dictator who requires that everyone send a ✅ after you finish your 5 pages.
+
 
 This blog was made for group members to make blog posts about their books.
 
-**Muhammad **is the local sticker enthusiast, he has a sticker for every occasion. **Razan **for the groups sanity impleneted rule of no more than 5 stickers a day.
 
-**Wael **always has exams and we all pray for him to survive school.
+Muhammad is the local sticker enthusiast, he has a sticker for every occasion. 
 
-**Moody **is challenging **Muhammads **title for the local sticker enthusiast, I'm waiting to see who comes out on top.
+Razan for the groups sanity impleneted rule of no more than 5 stickers a day.
+
+
+Wael always has exams and we all pray for him to survive school.
+
+
+Moody is challenging Muhammads title for the local sticker enthusiast, I'm waiting to see who comes out on top.
+
