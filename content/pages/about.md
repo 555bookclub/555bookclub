@@ -31,13 +31,18 @@ seo:
       relativeUrl: true
 layout: page
 ---
+We are a group of Arab students who are trying to read 5 pages everyday. The group head Razan is a benovolant dictator who requires that everyone send a ✅ after you finish your 5 pages.
 
-**John Doe** is a Senior Art Director from [Stockholm](https://en.wikipedia.org/wiki/Stockholm), Sweden. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2019.
+This blog was made for group members to make blog posts about their books.
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
 
-As a hobby, John Doe authors the most influential design blog in Sweden with over 100,000 page views a month. He lives in Stockholm with his beautiful wife and two boys.
+Muhammad is the local sticker enthusiast, he has a sticker for every occasion. Razan for the groups sanity impleneted rule of no more than 5 stickers a day.
 
-*Thank You for reading!*
+
+Wael always has exams and we all pray for him to survive school.
+
+
+Moody is challenging Muhammads title for the local sticker enthusiast, I'm waiting to see who comes out on top.
+
+
