@@ -1,6 +1,7 @@
 ---
 title: About Us
-img_path: images/about.jpg
+img_path: >-
+  images/vecteezy_miniature-businessmen-reading-a-book-on-an-old-book-business-education-concept_2145379.jpg
 img_alt: A man standing on a rock outside the cave
 seo:
   title: About Me
