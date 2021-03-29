@@ -29,6 +29,7 @@ seo:
       value: images/about.jpg
       relativeUrl: true
 layout: page
+subtitle: We are a group of students who are trying to read at least 5 pages every day.
 ---
 We are a group of Arab students who are trying to read 5 pages everyday. The group head Razan is a benovolant dictator who requires that everyone send a ✅ after you finish your 5 pages.
 
