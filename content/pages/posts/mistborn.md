@@ -13,9 +13,28 @@ seo:
   type: stackbit_page_meta
 layout: post
 ---
-## Lorem ipsum
+## For a thousand years, the world has been ruled with an iron fist by the immortal emperor, Lord Ruler.
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-- Lorem ipsum
-- dolor sit amet
+
+### Magic
+
+Brandon Sanderson takes a few simple concepts and expands on them immensely. The magic system in *Mistborn* is perhaps its most striking quality. Allomancy is based around the idea that ingesting then ***"burning"*** metals gives allomancers, as they are known in-world, special abilities. These powers vary by the metal ingested, and not every allomancer is created equal, the rare and most powerful allomancers can burn all the metals. They're one man armies and have been given the name ***Mistborn***.
+
+### World
+
+The world is one blackened by ash which falls perpetually from a series of volcanoes turning the earth brown and the sky red. The society is deeply divided between skaa (peasants who are essentially slaves) and the nobility. This empire has been dubbed the ***Final Empire*** with the Lord Ruler as its head, and immortal "Silver of Infinity" or "Piece of God".
+
+While the world is quite grim, Sanderson avoids a trend in gritty fantasy by refusing to pen all his characters as morally gray. There are some elements of the anti-hero, but the book's characters are largely likable while remaining fully fleshed out
+
+### Characters
+
+After reading books with morally gray characters I found Sanderson's embrace of good guys very refreshing. The characters have their own flaws, but you rarely find yourself questioning the goodness of their intentions.
+
+
+I found that the level of complexity to Sanderson's characters is surprising given how *good* most of them are. Vin, the main character is reluctant and very mistrustful. You are shown why by getting a glimpse of her past, but I couldn't imagine someone not liking her for both her honesty and straightforwardness. She's one of my favorite fantasy characters, falling a bit behind Vivenna from warbreaker.
+
+### Should you read?
+
+If you're a fan of fantasy and haven't read the Mistborn Trilogy yet, I highly recommend it to get into Brandon Sanderson's Cosmere.
+
