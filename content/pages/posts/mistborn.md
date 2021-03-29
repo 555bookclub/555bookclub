@@ -8,7 +8,7 @@ excerpt: >-
   For a thousand years, the world has been ruled with an iron fist by the
   immortal emperor, Lord Ruler.
 seo:
-  title: ''
+  title: The 5-5-5 Bookclub
   description: ''
   robots: []
   extra: []
