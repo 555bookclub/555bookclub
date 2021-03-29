@@ -6,7 +6,7 @@ thumb_img_alt: Mistborn
 content_img_alt: Mistborn
 excerpt: >-
   For a thousand years, the world has been ruled with an iron fist by the
-  immortal
+  immortal emperor, Lord Ruler.
 seo:
   title: ''
   description: ''
