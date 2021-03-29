@@ -9,7 +9,9 @@ excerpt: >-
   immortal emperor, Lord Ruler.
 seo:
   title: The 5-5-5 Bookclub
-  description: ''
+  description: >-
+    We are a group of students who are trying to read at least 5 pages every
+    day.
   robots: []
   extra: []
   type: stackbit_page_meta
