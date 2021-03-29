@@ -1,6 +1,6 @@
 ---
 title: "Mistborn:\_The\_Final\_Empire"
-subtitle: lorem-ipsum
+subtitle: Written by Abdulaziz
 date: '2021-03-29'
 thumb_img_alt: lorem-ipsum
 content_img_alt: lorem-ipsum
