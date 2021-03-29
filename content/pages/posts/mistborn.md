@@ -2,7 +2,7 @@
 title: "Mistborn:\_The\_Final\_Empire"
 subtitle: Written by Abdulaziz
 date: '2021-03-29'
-thumb_img_alt: lorem-ipsum
+thumb_img_alt: Mistborn
 content_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 seo:
