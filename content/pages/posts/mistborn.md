@@ -30,7 +30,7 @@ Brandon Sanderson takes a few simple concepts and expands on them immensely. The
 
 ![](/images/purple-zucchini.jpg)
 
-The world is one blackened by ash which falls perpetually from a series of volcanoes turning the earth brown and the sky red. The society is deeply divided between skaa (peasants who are essentially slaves) and the nobility. This empire has been dubbed the ***Final Empire*** with the Lord Ruler as its head, and immortal "Silver of Infinity" or "Piece of God".
+The world is one blackened by ash which falls perpetually from a series of volcanoes turning the earth brown and the sky red. The society is deeply divided between skaa (peasants who are essentially slaves) and the nobility. This empire has been dubbed the ***Final Empire*** with the Lord Ruler as its head, an immortal "Silver of Infinity" or "Piece of God".
 
 While the world is quite grim, Sanderson avoids a trend in gritty fantasy by refusing to pen all his characters as morally gray. There are some elements of the anti-hero, but the book's characters are largely likable while remaining fully fleshed out
 
