@@ -12,6 +12,7 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: post
+thumb_img_path: images/mistexternal-content.duckduckgo.com.jpg
 ---
 ## For a thousand years, the world has been ruled with an iron fist by the immortal emperor, Lord Ruler.
 
