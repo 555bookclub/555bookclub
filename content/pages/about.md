@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: This is a short page about me and my work
+subtitle: "We\_are\_a\_group\_of\_students\_who\_are\_trying\_to\_read\_at\_least\_5\_pages\_every\_day."
 img_path: images/about.jpg
 img_alt: A man standing on a rock outside the cave
 seo:
